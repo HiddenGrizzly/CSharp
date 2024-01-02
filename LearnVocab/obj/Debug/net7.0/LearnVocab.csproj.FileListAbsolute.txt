@@ -1,0 +1,14 @@
+C:\Users\Laptop\javatest\LearnVocab\bin\Debug\net7.0\LearnVocab.exe
+C:\Users\Laptop\javatest\LearnVocab\bin\Debug\net7.0\LearnVocab.deps.json
+C:\Users\Laptop\javatest\LearnVocab\bin\Debug\net7.0\LearnVocab.runtimeconfig.json
+C:\Users\Laptop\javatest\LearnVocab\bin\Debug\net7.0\LearnVocab.dll
+C:\Users\Laptop\javatest\LearnVocab\bin\Debug\net7.0\LearnVocab.pdb
+C:\Users\Laptop\javatest\LearnVocab\obj\Debug\net7.0\LearnVocab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\javatest\LearnVocab\obj\Debug\net7.0\LearnVocab.AssemblyInfoInputs.cache
+C:\Users\Laptop\javatest\LearnVocab\obj\Debug\net7.0\LearnVocab.AssemblyInfo.cs
+C:\Users\Laptop\javatest\LearnVocab\obj\Debug\net7.0\LearnVocab.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\javatest\LearnVocab\obj\Debug\net7.0\LearnVocab.dll
+C:\Users\Laptop\javatest\LearnVocab\obj\Debug\net7.0\refint\LearnVocab.dll
+C:\Users\Laptop\javatest\LearnVocab\obj\Debug\net7.0\LearnVocab.pdb
+C:\Users\Laptop\javatest\LearnVocab\obj\Debug\net7.0\LearnVocab.genruntimeconfig.cache
+C:\Users\Laptop\javatest\LearnVocab\obj\Debug\net7.0\ref\LearnVocab.dll

@@ -1,0 +1,14 @@
+C:\Users\Laptop\javatest\DoctorPatienManager\bin\Debug\net7.0\DoctorPatienManager.exe
+C:\Users\Laptop\javatest\DoctorPatienManager\bin\Debug\net7.0\DoctorPatienManager.deps.json
+C:\Users\Laptop\javatest\DoctorPatienManager\bin\Debug\net7.0\DoctorPatienManager.runtimeconfig.json
+C:\Users\Laptop\javatest\DoctorPatienManager\bin\Debug\net7.0\DoctorPatienManager.dll
+C:\Users\Laptop\javatest\DoctorPatienManager\bin\Debug\net7.0\DoctorPatienManager.pdb
+C:\Users\Laptop\javatest\DoctorPatienManager\obj\Debug\net7.0\DoctorPatienManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\javatest\DoctorPatienManager\obj\Debug\net7.0\DoctorPatienManager.AssemblyInfoInputs.cache
+C:\Users\Laptop\javatest\DoctorPatienManager\obj\Debug\net7.0\DoctorPatienManager.AssemblyInfo.cs
+C:\Users\Laptop\javatest\DoctorPatienManager\obj\Debug\net7.0\DoctorPatienManager.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\javatest\DoctorPatienManager\obj\Debug\net7.0\DoctorPatienManager.dll
+C:\Users\Laptop\javatest\DoctorPatienManager\obj\Debug\net7.0\refint\DoctorPatienManager.dll
+C:\Users\Laptop\javatest\DoctorPatienManager\obj\Debug\net7.0\DoctorPatienManager.pdb
+C:\Users\Laptop\javatest\DoctorPatienManager\obj\Debug\net7.0\DoctorPatienManager.genruntimeconfig.cache
+C:\Users\Laptop\javatest\DoctorPatienManager\obj\Debug\net7.0\ref\DoctorPatienManager.dll

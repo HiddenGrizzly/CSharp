@@ -1,0 +1,14 @@
+C:\Users\Laptop\javatest\ManageQA\bin\Debug\net7.0\ManageQA.exe
+C:\Users\Laptop\javatest\ManageQA\bin\Debug\net7.0\ManageQA.deps.json
+C:\Users\Laptop\javatest\ManageQA\bin\Debug\net7.0\ManageQA.runtimeconfig.json
+C:\Users\Laptop\javatest\ManageQA\bin\Debug\net7.0\ManageQA.dll
+C:\Users\Laptop\javatest\ManageQA\bin\Debug\net7.0\ManageQA.pdb
+C:\Users\Laptop\javatest\ManageQA\obj\Debug\net7.0\ManageQA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\javatest\ManageQA\obj\Debug\net7.0\ManageQA.AssemblyInfoInputs.cache
+C:\Users\Laptop\javatest\ManageQA\obj\Debug\net7.0\ManageQA.AssemblyInfo.cs
+C:\Users\Laptop\javatest\ManageQA\obj\Debug\net7.0\ManageQA.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\javatest\ManageQA\obj\Debug\net7.0\ManageQA.dll
+C:\Users\Laptop\javatest\ManageQA\obj\Debug\net7.0\refint\ManageQA.dll
+C:\Users\Laptop\javatest\ManageQA\obj\Debug\net7.0\ManageQA.pdb
+C:\Users\Laptop\javatest\ManageQA\obj\Debug\net7.0\ManageQA.genruntimeconfig.cache
+C:\Users\Laptop\javatest\ManageQA\obj\Debug\net7.0\ref\ManageQA.dll

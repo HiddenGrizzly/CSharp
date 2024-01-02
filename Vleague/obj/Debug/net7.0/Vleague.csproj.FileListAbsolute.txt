@@ -1,0 +1,14 @@
+C:\Users\Laptop\javatest\Vleague\bin\Debug\net7.0\Vleague.exe
+C:\Users\Laptop\javatest\Vleague\bin\Debug\net7.0\Vleague.deps.json
+C:\Users\Laptop\javatest\Vleague\bin\Debug\net7.0\Vleague.runtimeconfig.json
+C:\Users\Laptop\javatest\Vleague\bin\Debug\net7.0\Vleague.dll
+C:\Users\Laptop\javatest\Vleague\bin\Debug\net7.0\Vleague.pdb
+C:\Users\Laptop\javatest\Vleague\obj\Debug\net7.0\Vleague.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\javatest\Vleague\obj\Debug\net7.0\Vleague.AssemblyInfoInputs.cache
+C:\Users\Laptop\javatest\Vleague\obj\Debug\net7.0\Vleague.AssemblyInfo.cs
+C:\Users\Laptop\javatest\Vleague\obj\Debug\net7.0\Vleague.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\javatest\Vleague\obj\Debug\net7.0\Vleague.dll
+C:\Users\Laptop\javatest\Vleague\obj\Debug\net7.0\refint\Vleague.dll
+C:\Users\Laptop\javatest\Vleague\obj\Debug\net7.0\Vleague.pdb
+C:\Users\Laptop\javatest\Vleague\obj\Debug\net7.0\Vleague.genruntimeconfig.cache
+C:\Users\Laptop\javatest\Vleague\obj\Debug\net7.0\ref\Vleague.dll

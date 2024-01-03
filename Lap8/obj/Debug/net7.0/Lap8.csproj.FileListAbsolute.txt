@@ -1,0 +1,14 @@
+C:\Users\Laptop\javatest\Lap8\bin\Debug\net7.0\Lap8.exe
+C:\Users\Laptop\javatest\Lap8\bin\Debug\net7.0\Lap8.deps.json
+C:\Users\Laptop\javatest\Lap8\bin\Debug\net7.0\Lap8.runtimeconfig.json
+C:\Users\Laptop\javatest\Lap8\bin\Debug\net7.0\Lap8.dll
+C:\Users\Laptop\javatest\Lap8\bin\Debug\net7.0\Lap8.pdb
+C:\Users\Laptop\javatest\Lap8\obj\Debug\net7.0\Lap8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\javatest\Lap8\obj\Debug\net7.0\Lap8.AssemblyInfoInputs.cache
+C:\Users\Laptop\javatest\Lap8\obj\Debug\net7.0\Lap8.AssemblyInfo.cs
+C:\Users\Laptop\javatest\Lap8\obj\Debug\net7.0\Lap8.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\javatest\Lap8\obj\Debug\net7.0\Lap8.dll
+C:\Users\Laptop\javatest\Lap8\obj\Debug\net7.0\refint\Lap8.dll
+C:\Users\Laptop\javatest\Lap8\obj\Debug\net7.0\Lap8.pdb
+C:\Users\Laptop\javatest\Lap8\obj\Debug\net7.0\Lap8.genruntimeconfig.cache
+C:\Users\Laptop\javatest\Lap8\obj\Debug\net7.0\ref\Lap8.dll
